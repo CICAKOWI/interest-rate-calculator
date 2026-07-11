@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Interest Rate Calculator — Final Project
 
 ## 1. Extract & masuk folder
@@ -59,3 +60,6 @@ git push
 - Task 1: buka file `index.html` di GitHub → klik tombol "Raw" atau copy URL blob-nya
 - Task 2: sama, buka file `script.js` di GitHub, copy URL-nya
 - Task 3–5: copy-paste isi file `no-spec.txt`, `both-tests-passed.txt`, `dist-directory.txt` ke jawaban teks
+=======
+# interest-rate-calculator
+>>>>>>> 210a392ff489273e1e5274b8d10746b385622db7
